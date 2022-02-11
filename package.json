@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/edinascimento/course-git-github-ninja#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1"
   }
 }
