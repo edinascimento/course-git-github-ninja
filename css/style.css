@@ -4,3 +4,9 @@ body {
   font: 15px arial, sans-serif;
   color: #fc0;
 }
+
+.main {
+  display: flex;
+  height: 100%;
+  widht: 100%;
+}
